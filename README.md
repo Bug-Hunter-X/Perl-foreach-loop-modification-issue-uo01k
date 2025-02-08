@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using Perl's foreach loop. The `foreach` loop iterates over a copy of the array, rather than the original.  Modifying the array within the loop may not produce the expected results. The `bug.pl` file contains the erroneous code and the `bugSolution.pl` file provides the solution.
